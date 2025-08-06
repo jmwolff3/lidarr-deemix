@@ -1,9 +1,6 @@
 name: Container
 run-name: ${{ github.ref_name }} - Publishing Container 
-on:
-  push:
-    tags:
-      - "*"
+on: workflow_dispatch
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
