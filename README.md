@@ -1,4 +1,4 @@
-<h4>Fork of ad-on-is/lidarr-deemix with some small improvements:</h4>
+<h4>Fork of ad-on-is/lidarr-deemix with some small improvements</h4>
 
 - Configurable url for metadata server (currently defaults to api.musicinfo.pro)
 - Adds deemix release into musicbrainz release group where possible so both can be visible to Lidarr
